@@ -1,0 +1,11 @@
+//
+//  SecureKeys.xcconfig
+//  SecureKeyApp
+//
+//  Created by Abdur Rehman on 15/03/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = "Secret key for decoding"
